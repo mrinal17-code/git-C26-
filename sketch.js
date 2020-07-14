@@ -58,7 +58,8 @@ function draw(){
     box5.display();
     log4.display();
     log5.display();
-
+   //displaying bird
     bird.display();
+    //displaying platform
     platform.display();
 }
